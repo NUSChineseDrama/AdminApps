@@ -1,0 +1,1 @@
+node emailSender >> deliveryStatus.log

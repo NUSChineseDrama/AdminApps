@@ -1,0 +1,22 @@
+.DS_Store
+node_modules/
+authentication/
+.vs/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.xlsx
+*.log
+emailReceivers.json
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.pdf
+email/src/emailReceivers/allReceivers.json
+email/src/emailReceivers/delivery log
